@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shopzee/static/css/main.cc9362df.css",
+    "main.js": "/Shopzee/static/js/main.710060ef.js",
+    "static/js/787.d6fe38e8.chunk.js": "/Shopzee/static/js/787.d6fe38e8.chunk.js",
+    "static/media/1.png": "/Shopzee/static/media/1.0e548fdb16d95d3ad63a.png",
+    "static/media/8.png": "/Shopzee/static/media/8.aaa350d206c41d831914.png",
+    "static/media/2.png": "/Shopzee/static/media/2.a9cfbd75cbd38405e9f8.png",
+    "static/media/7.png": "/Shopzee/static/media/7.db4da181d8e85213cd03.png",
+    "static/media/download (2).svg": "/Shopzee/static/media/download (2).cf481ab0fdcf24ba97f6a1740ab61447.svg",
+    "index.html": "/Shopzee/index.html",
+    "main.cc9362df.css.map": "/Shopzee/static/css/main.cc9362df.css.map",
+    "main.710060ef.js.map": "/Shopzee/static/js/main.710060ef.js.map",
+    "787.d6fe38e8.chunk.js.map": "/Shopzee/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc9362df.css",
+    "static/js/main.710060ef.js"
+  ]
+}
