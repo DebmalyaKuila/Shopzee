@@ -8,10 +8,10 @@ function App() {
   return (
     <div className="App">
       <ShopContextProvider>
-     <Router>
+     <Router basename='/Shopzee'>
       <Navbar/>
       <Routes>
-        <Route path='/' element={<Shop/>}/>
+        <Route exact path='/Shopzee' element={<Shop/>}/>
         <Route path='/cart' element={<Cart/>}/>
       </Routes>
      </Router>
