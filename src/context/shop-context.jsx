@@ -11,7 +11,7 @@ function getDefaultCart() {
   return cart;
 }
 
-export const ShopContextProvider = (props) => {
+ const  ShopContextProvider = (props) => {
   const [cartItems, setCartItems] = useState(getDefaultCart());
 
   const addToCart=(itemId)=>{
@@ -41,3 +41,4 @@ setCartItems((prev)=>({...prev,[itemId]:NewValue}))
 const ContextValue={cartItems,addToCart,removeFromCart,changeHandler,getTotalAmount}
   return <ShopContext.Provider value={ContextValue}>{props.children}</ShopContext.Provider>;
 };
+export default  ShopContextProvider

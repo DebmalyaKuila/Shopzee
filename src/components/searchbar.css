@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+div .Search{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: white;
+  margin-right: 5%;
+  padding: 0.5rem 1.5rem;
+
+}
+
+div .Search input{
+    margin-right: 5px;
+}
+
+div .Dataresult{
+background-color: bisque;
+width: 90%;
+height: 15vh;
+display: flex;
+flex-direction: column;
+overflow: hidden;
+overflow-y: auto;
+
+
+
+}
+
+div .Dataresult::-webkit-scrollbar{
+    display: none;
+}
+
+div .Dataresult .DataItem{
+    width: 100%;
+    text-align: left;
+    padding: 5px 10px;
+    
+}
