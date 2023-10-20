@@ -48,9 +48,9 @@ const Header = () => {
 
   return (
     
-      <div className="flex flex-col ">
+      <div className="flex flex-col shadow-sm">
         <div className="flex flex-row justify-between items-center mx-10">
-          <Typography.Title>Shopzee</Typography.Title>
+          <Typography.Title style={{color:'orangered'}}>Shopzee</Typography.Title>
           <Input.Search
           className="w-4/12"
       placeholder="Search product"
