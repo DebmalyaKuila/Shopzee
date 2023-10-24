@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopzee/static/css/main.9a53abca.css",
+    "main.js": "/Shopzee/static/js/main.ba084820.js",
+    "static/js/787.d6fe38e8.chunk.js": "/Shopzee/static/js/787.d6fe38e8.chunk.js",
+    "index.html": "/Shopzee/index.html",
+    "main.9a53abca.css.map": "/Shopzee/static/css/main.9a53abca.css.map",
+    "main.ba084820.js.map": "/Shopzee/static/js/main.ba084820.js.map",
+    "787.d6fe38e8.chunk.js.map": "/Shopzee/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a53abca.css",
+    "static/js/main.ba084820.js"
+  ]
+}
