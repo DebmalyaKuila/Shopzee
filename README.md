@@ -8,9 +8,13 @@ product search functionality will also be integrated soon.
 ## Techstack used
 
 1.This is a React Js project built using Ant design components for a minimalist and straightforward user interface.
+
 2.Tailwind css and vanilla css are also used for styling purpose.
+
 3.npm package react-router-dom is also used to handle routing in this project.
+
 4.fakestore api is used to get the products and dummyjson api is used for fetching cart in this project.
+
 
 ## Available Scripts
 
