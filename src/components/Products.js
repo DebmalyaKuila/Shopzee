@@ -9,11 +9,10 @@ const Products = () => {
   const [products, setProducts] = useState([]);
   const param = useParams();
   useEffect(() => {
-    (param?.categoryId!=="Home"
+    ( (param?.categoryId!=="Home" && Object.keys(param).length!==0) 
       ? getProductsByCategory(param.categoryId)
       : getAllProducts()
     ).then((data) => setProducts(data));
-    console.log(param);
   }, [param]);
 
   return (
