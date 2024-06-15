@@ -1,0 +1,24 @@
+#Admin-header{
+    height: 8vh;
+    padding: 5px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+#Admin-header h1{
+    color: orangered;
+    font-weight: 600;
+    font-size: 2rem;
+}
+
+
+#Admin-pagecontent{
+display: flex;
+flex: 1;
+}
+
+#Admin-sidemenu{
+height: 100%;
+
+}
