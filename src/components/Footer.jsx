@@ -9,9 +9,9 @@ import {
 
 const Footer = () => {
   return (
-    <div className=" bg-slate-600 flex flex-col justify-center items-center py-4">
+    <div className=" bg-slate-600 flex flex-col justify-center items-center py-2">
       <div
-        className="w-4/12 flex flex-row justify-around items-center mb-4"
+        className="w-4/12 flex flex-row justify-around items-center py-2"
         style={{ fontSize: 26, color: "white" }}
       >
         <FacebookOutlined />
