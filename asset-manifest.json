@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DebmalyaKuila/Shopzee/static/css/main.1f4a249f.css",
-    "main.js": "/DebmalyaKuila/Shopzee/static/js/main.5869e42d.js",
+    "main.js": "/DebmalyaKuila/Shopzee/static/js/main.704f114c.js",
     "static/js/787.cfaa82bb.chunk.js": "/DebmalyaKuila/Shopzee/static/js/787.cfaa82bb.chunk.js",
     "index.html": "/DebmalyaKuila/Shopzee/index.html",
     "main.1f4a249f.css.map": "/DebmalyaKuila/Shopzee/static/css/main.1f4a249f.css.map",
-    "main.5869e42d.js.map": "/DebmalyaKuila/Shopzee/static/js/main.5869e42d.js.map",
+    "main.704f114c.js.map": "/DebmalyaKuila/Shopzee/static/js/main.704f114c.js.map",
     "787.cfaa82bb.chunk.js.map": "/DebmalyaKuila/Shopzee/static/js/787.cfaa82bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f4a249f.css",
-    "static/js/main.5869e42d.js"
+    "static/js/main.704f114c.js"
   ]
 }
